@@ -135,3 +135,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 node_modules/
+tokens/
+.wwebjs_cache/
